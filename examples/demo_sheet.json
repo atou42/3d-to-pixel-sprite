@@ -1,0 +1,103 @@
+{
+ "frame_w": 48,
+ "frame_h": 48,
+ "gap": 1,
+ "rows": [
+  {
+   "action": "hop",
+   "dir": 0,
+   "y": 0,
+   "frames": 4
+  },
+  {
+   "action": "hop",
+   "dir": 1,
+   "y": 49,
+   "frames": 4
+  },
+  {
+   "action": "hop",
+   "dir": 2,
+   "y": 98,
+   "frames": 4
+  },
+  {
+   "action": "hop",
+   "dir": 3,
+   "y": 147,
+   "frames": 4
+  },
+  {
+   "action": "hop",
+   "dir": 4,
+   "y": 196,
+   "frames": 4
+  },
+  {
+   "action": "hop",
+   "dir": 5,
+   "y": 245,
+   "frames": 4
+  },
+  {
+   "action": "hop",
+   "dir": 6,
+   "y": 294,
+   "frames": 4
+  },
+  {
+   "action": "hop",
+   "dir": 7,
+   "y": 343,
+   "frames": 4
+  },
+  {
+   "action": "idle",
+   "dir": 0,
+   "y": 392,
+   "frames": 4
+  },
+  {
+   "action": "idle",
+   "dir": 1,
+   "y": 441,
+   "frames": 4
+  },
+  {
+   "action": "idle",
+   "dir": 2,
+   "y": 490,
+   "frames": 4
+  },
+  {
+   "action": "idle",
+   "dir": 3,
+   "y": 539,
+   "frames": 4
+  },
+  {
+   "action": "idle",
+   "dir": 4,
+   "y": 588,
+   "frames": 4
+  },
+  {
+   "action": "idle",
+   "dir": 5,
+   "y": 637,
+   "frames": 4
+  },
+  {
+   "action": "idle",
+   "dir": 6,
+   "y": 686,
+   "frames": 4
+  },
+  {
+   "action": "idle",
+   "dir": 7,
+   "y": 735,
+   "frames": 4
+  }
+ ]
+}

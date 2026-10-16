@@ -1,0 +1,13 @@
+# neutral 12-colour demo palette
+#14161c
+#2a2f3a
+#1f4a32
+#2f6e46
+#4a9a5e
+#7cc47a
+#b8e3a0
+#7a4a14
+#c98a2a
+#f0c25a
+#e8e8de
+#ffffff
